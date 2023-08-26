@@ -1,2 +1,2 @@
 # food-ordering-app
-That begginer project everyone has stashed somewhere!
+That beginer project everyone has stashed somewhere!
